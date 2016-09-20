@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
 # Author : Theo Penavaire
-# v1.0
+# v1.0.1
 
 # Configure this array to add your git branches
 BRANCHES=(
     #"prod-sf2.8"
     #"devel-sf3.1"
     #"..."
-    "dev3.1"
-    "master"
 )
 
 #=========== DO NOT MODIFY SCRIPT BEYOND ===========
